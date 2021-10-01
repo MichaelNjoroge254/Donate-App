@@ -4,6 +4,8 @@ An application that one can donate money to feed the street children and orphans
 ## Author
 - Michael Njoroge
 
+## Live link
+
 ## User Stories
 
 - Sign in with the application to start using.
@@ -23,7 +25,7 @@ An application that one can donate money to feed the street children and orphans
 #### Cloning
 
 - Open the terminal/command prompt
-- `git clone https://github.com/MichaelNjoroge254/Notify-Alerts.git
+- `git clone https://github.com/MichaelNjoroge254/Donate-App.git
 - `cd Notify-Alerts`
 - `code` or open through your preferred editor.
 
